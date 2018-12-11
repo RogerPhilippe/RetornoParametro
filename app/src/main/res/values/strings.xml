@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetornoParametro</string>
+    <string name="btn_enviar_1">Enviar</string>
+    <string name="btn_reenviar">Reenviar</string>
+    <string name="btn_receber">Receber</string>
+    <string name="btn_enviar_result">Enviar Resultado</string>
+</resources>
